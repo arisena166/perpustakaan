@@ -1,0 +1,24 @@
+.navbar{
+    background: #31363F;  
+}
+
+.navbar ul li a{
+    color: white;
+}
+.navbar .dropdown-item{
+    color: #31363F;
+}
+.buku{
+    display: flex;
+}
+
+.list-buku2{
+    display: flex;
+}
+.detail{
+    margin-left: 20px;
+}
+.judul-buku{
+    font-weight: 600;
+    font-size: 30px;
+}
